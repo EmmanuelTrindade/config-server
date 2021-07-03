@@ -9,5 +9,5 @@ management:
         include:
         - '*'
 greeting-service:
-  greeting: "Hola"
-  default-value: "Mundo"
+  greeting: "Oi"
+  default-value: "Mundo perf Git"
